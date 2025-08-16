@@ -1,0 +1,3 @@
+[submodule "argo-bin"]
+	path = argo-bin
+	url = ssh://aur@aur.archlinux.org/argo-bin.git
